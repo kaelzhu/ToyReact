@@ -1,0 +1,25 @@
+{
+	"name": "toy_react",
+	"version": "1.0.0",
+	"description": "a toy react",
+	"main": "main.js",
+	"scripts": {
+		"start:dev": "webpack-dev-server --config ./webpack.config.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kaelzhu/ToyReact.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kaelzhu/ToyReact/issues"
+	},
+	"homepage": "https://github.com/kaelzhu/ToyReact#readme",
+	"devDependencies": {
+		"webpack": "^4.44.1",
+		"webpack-cli": "^3.3.12",
+		"webpack-dev-server": "^3.11.0"
+	}
+}
